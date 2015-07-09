@@ -457,6 +457,7 @@
 						</div>
 						<!-- LISTENER adminmenu -->
 					</div>
+					<div class="clear"></div>
 					<!-- ENDIF -->
 				</nav>
 			</header>
