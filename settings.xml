@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<settings styleversion="0.2.0">
+<settings styleversion="0.2.1">
 	<template_path>eqdkp_bf</template_path>
 	<attendees_columns>6</attendees_columns>
 	<logo_position>left</logo_position>
@@ -38,7 +38,7 @@
 	<table_tr_background_color2>rgba(0, 0, 0, 0.3)</table_tr_background_color2>
 	<table_tr_background_color_hover>rgb(0, 0, 0)</table_tr_background_color_hover>
 	<table_border_color>rgba(255, 255, 255, 0.4)</table_border_color>
-	<menu_background_color>rgba(69, 72, 77, 0.8)</menu_background_color>
+	<menu_background_color>rgba(69, 72, 77, 0.9)</menu_background_color>
 	<menu_font_color>rgb(248, 134, 19)</menu_font_color>
 	<menu_item_background_color>rgba(255, 255, 255, 0)</menu_item_background_color>
 	<menu_item_background_color_hover>rgb(0, 0, 0)</menu_item_background_color_hover>
